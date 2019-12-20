@@ -24,7 +24,6 @@
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/img"
         android:layout_below="@id/name"
-        android:layout_toBelowOf="@id/name"
         android:textSize="20sp"
         android:layout_marginLeft="25dp"
         android:id="@+id/number"/>
